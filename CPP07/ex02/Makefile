@@ -1,4 +1,4 @@
-NAME := Whatever
+NAME := Array
 CC := g++
 CFLAGS := -std=c++98 -Wall -Wextra -Werror
 SRC_DIR := .
